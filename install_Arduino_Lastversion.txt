@@ -1,0 +1,15 @@
+---install_Arduino_Lastversion---
+
+$ cd ~/Downloads
+
+$ tar -xvf arduino-1.8.0-*.tar.xz
+
+$ sudo mv arduino-1.8.0 /opt
+
+$ cd /opt/arduino-1.8.0/
+
+$ chmod +x install.sh
+
+$ ./install.sh
+
+***ถ้าเกิด error ลองเปลี่ยน version arduinoIDE

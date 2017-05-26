@@ -1,0 +1,5 @@
+---LinuxCommand---
+1.ลบ floder ใน opt
+sudo rm -r /opt/xxxx
+
+
