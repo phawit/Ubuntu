@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=-FpwnTQJZm8
+
+Office 2010 ZIP: https://www.dropbox.com/sh/8c754fo8wgsr3th/lF_-H1KiUy
+
+sudo apt-get install wine
+
+sudo apt-get install playonlinux
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+wine --version
+
+
